@@ -42,6 +42,6 @@ Step 13: Save your float track.
 
 # Output
 
-![](g.jpg)
+![](g.png)
 # Result
 Thus Automatic-Open-and-Close-door-creation-in-Unreal-Engine-with-collision is implemented.
